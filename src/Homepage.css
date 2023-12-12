@@ -1,0 +1,13 @@
+.homepage {
+    display: flex;
+    flex-direction: row;
+  
+  }
+  .homepage__timeline {
+    flex: 1;
+    border-right: 1px solid black;
+  }
+  .homepage__nav {
+      flex: 1;
+  }
+  
